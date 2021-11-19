@@ -1,0 +1,14 @@
+com/foodapps_native_user/BuildConfig.java
+ com.foodapps_native_user.BuildConfig
+com/foodapps_native_user/ReactNativeFlipper.java
+ com.foodapps_native_user.ReactNativeFlipper
+ com.foodapps_native_user.ReactNativeFlipper$1
+ com.foodapps_native_user.ReactNativeFlipper$2
+ com.foodapps_native_user.ReactNativeFlipper$2$1
+com/foodapps_native_user/MainApplication.java
+ com.foodapps_native_user.MainApplication
+ com.foodapps_native_user.MainApplication$1
+com/foodapps_native_user/MainActivity.java
+ com.foodapps_native_user.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

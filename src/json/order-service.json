@@ -1,0 +1,26 @@
+[
+    {
+        "key": "delivery",
+        "name": "Delivery",
+        "isActive": false,
+        "isEnabled": true
+    },
+    {
+        "key": "collection",
+        "name": "Collection",
+        "isActive": false,
+        "isEnabled": true
+    },
+    {
+        "key": "dine_in",
+        "name": "Dine In",
+        "isActive": false,
+        "isEnabled": true
+    },
+    {
+        "key": "table_booking",
+        "name": "Book a Table",
+        "isActive": false,
+        "isEnabled": true
+    }
+]

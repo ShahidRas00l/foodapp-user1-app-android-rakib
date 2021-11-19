@@ -1,0 +1,6 @@
+module Pods_foodapps_native_user {
+  umbrella header "Pods-foodapps_native_user-umbrella.h"
+
+  export *
+  module * { export * }
+}
